@@ -1,7 +1,0 @@
-com/cadastro/Cadastro/Service/ProdutoService.class
-com/cadastro/Cadastro/Model/Domain/Produto.class
-com/cadastro/Cadastro/Model/Status.class
-com/cadastro/Cadastro/CadastroApplication.class
-com/cadastro/Cadastro/Repository/ProdutoRepository.class
-com/cadastro/Cadastro/Model/DTO/ProdutoDTO.class
-com/cadastro/Cadastro/Controller/ProdutoController.class
